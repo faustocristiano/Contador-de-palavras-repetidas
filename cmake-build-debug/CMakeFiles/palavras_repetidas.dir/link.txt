@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/palavras_repetidas.dir/main.cpp.o -o palavras_repetidas 
